@@ -1,15 +1,69 @@
 body {
-    margin: 0;
-    height: 100vh;
-    background-color: #f0f0f0;
-  }
-
-.text{
-  margin: 50px;
+  height: 100vh;
+  background-color: #CBEAEF;
 }
 
-.logo{
-  height: 50px;
-  width: 50px;
-    img {height: 200px;}
+header{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 1%;
+  
+  .logo{
+    margin-left: 2%;
+    width: 8em;
+  
+    img {
+      height: 8em;
+    }
+  }
+
+  .text{
+    margin-left: 2%;
+    width: 50%;
+  
+    .cls-1 {
+      fill: #1d1d1b;
+    }
+  }
+    
+  .line {
+    width: 100%; /* Bredd på linjen */
+    height: 2px; /* Höjd på linjen */
+    background-color: #505050; /* Färg på linjen */
+    margin: 0; /* Avstånd runt linjen */
+  }
+}
+
+.main_page{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 3%;
+  padding: 2;
+
+  .gallery{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 3%;
+  
+    .picture{
+      width: 30%;
+      margin: 1%;
+      padding: 2%;
+      background-color: #C26700;
+      border-radius: 15px;
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+      img{
+        width: 100%;
+        border-radius: 15px;
+      }
+
+      p{
+        margin-top: 3%;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+    }
+  }
 }
