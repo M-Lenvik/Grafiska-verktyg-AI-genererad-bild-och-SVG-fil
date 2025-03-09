@@ -8,7 +8,7 @@ const letters = [
 letters.forEach((letter) => {
   tl.to(letter, { 
     duration: 1.5, 
-    fill: "#E97C00",
+    fill: "#b96300",
     transformOrigin: "center center",
     rotation: 360
   });
@@ -18,7 +18,7 @@ letters.forEach((letter) => {
 gsap.set("#cls-2-group_initials", { fill: "#000" }); //Sätter initial färg  
 gsap.to("#cls-2-group_initials", { 
   duration: 5, 
-  fill: "#E97C00",
+  fill: "#b96300",
   transformOrigin: "50% 50%", 
   rotation: 360, 
   repeat: -1, //Upprepa oändligt
