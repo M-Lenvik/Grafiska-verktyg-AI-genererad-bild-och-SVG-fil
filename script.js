@@ -10,7 +10,7 @@ letters.forEach((letter) => {
     duration: 1.5, 
     fill: "#b96300",
     transformOrigin: "center center",
-    rotation: 360
+    rotation: 360,
   });
 });
 
