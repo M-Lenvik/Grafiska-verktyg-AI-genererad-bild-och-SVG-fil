@@ -1,7 +1,7 @@
 # Kurs: Grafiska verktyg
 Skapad av mig, **Marie Lenvik** <br>
 https://github.com/M-Lenvik
-
+test frånkoppling
 ## Innehållsförteckning
 1. [Tekniker som använts](#tekniker-som-använts)
 2. [Uppgift 1 - Skapa en AI genererad bild](Uppgift-1---Skapa-en-AI-genererad-bild)
