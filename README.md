@@ -1,7 +1,6 @@
 # Kurs: Grafiska verktyg
 Skapad av mig, **Marie Lenvik** <br>
 https://github.com/M-Lenvik
-test
 
 ## Innehållsförteckning
 1. [Tekniker som använts](#tekniker-som-använts)
