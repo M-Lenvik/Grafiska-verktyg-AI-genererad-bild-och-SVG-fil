@@ -9,6 +9,7 @@ https://github.com/M-Lenvik
    2. [Lösning uppgift 1](Fågel-skapad-av-löv)
 3. [Uppgift 2 - Skapa en SVG fil och animera den](Uppgift-2---Skapa-en-SVG-fil-och-animera-den)
     1. [Lösning uppgift 2](Animerad-text-och-logotype)
+4. [Betyg](Betyg)
 
 
 ## Tekniker som använts
@@ -49,3 +50,6 @@ Texten och logotypen är framtagni i Adobe illustrator och sedan animerade med G
 https://github.com/user-attachments/assets/ddc769dd-156b-4e80-9f9c-ab192a72dc62
 
 https://github.com/user-attachments/assets/15ca4eac-4035-4281-921c-5683715deba0
+
+## Betyg
+![Betyg Grafiska verktyg för gränssnittsdesign individuell uppgift](https://github.com/user-attachments/assets/c64c56da-95e2-4d23-b7c5-d270a1e34dac)
